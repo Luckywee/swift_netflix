@@ -1,0 +1,14 @@
+/* 
+  Localizable.strings
+  Netflix
+
+  Created by digital on 23/05/2023.
+  
+*/
+
+
+"movie.title" = "Фільми";
+"movie.all_genres" = "Всі жанри";
+"movie.search" = "Шукати фільми...";
+"movie.trailer" = "Подивитися трейлер";
+"movie.looking" = "Завантажувати інформацію про фільм...";

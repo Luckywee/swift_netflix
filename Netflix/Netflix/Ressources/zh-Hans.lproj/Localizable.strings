@@ -1,0 +1,14 @@
+/* 
+  Localizable.strings
+  Netflix
+
+  Created by digital on 23/05/2023.
+  
+*/
+
+
+"movie.title" = "电影";
+"movie.all_genres" = "所有类型";
+"movie.search" = "搜索电影...";
+"movie.trailer" = "看预告片";
+"movie.looking" = "加载电影细节...";

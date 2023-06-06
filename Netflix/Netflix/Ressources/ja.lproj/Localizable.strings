@@ -1,0 +1,14 @@
+/* 
+  Localizable.strings
+  Netflix
+
+  Created by digital on 23/05/2023.
+  
+*/
+
+
+"movie.title" = "映画";
+"movie.all_genres" = "全ジャンル";
+"movie.search" = "映画を検索する...";
+"movie.trailer" = "予告編を見る";
+"movie.looking" = "映画の詳細を読み込んでいます...";

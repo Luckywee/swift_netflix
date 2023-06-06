@@ -1,0 +1,14 @@
+/* 
+  Localizable.strings
+  Netflix
+
+  Created by digital on 23/05/2023.
+  
+*/
+
+
+"movie.title" = "Film";
+"movie.all_genres" = "Tutti i generi";
+"movie.search" = "Cerca film...";
+"movie.trailer" = "Guarda il trailer";
+"movie.looking" = "Caricamento dei dettagli del film...";
